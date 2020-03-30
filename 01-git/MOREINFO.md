@@ -1,5 +1,7 @@
 ### Редактор кода
 
+- [VS Code](https://code.visualstudio.com/)
+
 ### Как работают сайты на самом деле
 
 - [Что происходит, когда пользователь набирает в браузере адрес сайта](https://vc.ru/selectel/76371-chto-proishodit-kogda-polzovatel-nabiraet-v-brauzere-adres-sayta)
